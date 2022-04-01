@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(77, 173, 173);
+    color:#3a3a39;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-weight: 900;
+}
+
+div{
+    font-weight: 100;
+}
